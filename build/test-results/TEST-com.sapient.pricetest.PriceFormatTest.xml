@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sapient.pricetest.PriceFormatTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-06-27T22:19:25" hostname="NYsEgopal63865" time="0.33">
+  <properties/>
+  <testcase name="test_formatPriceTotal_success" classname="com.sapient.pricetest.PriceFormatTest" time="0.323"/>
+  <testcase name="test_formatPrice_success" classname="com.sapient.pricetest.PriceFormatTest" time="0.007"/>
+  <system-out><![CDATA[Reading inputs
+formatted price is 95.187500
+formatted price is 95.281250
+formatted price is 95.875000
+formatted price is 96.031250
+formatted price is 96.062500
+formatted price is 96.359375
+formatted price is 96.390625
+formatted price is 96.531250
+formatted price is 96.609375
+formatted price is 97.109375
+formatted price is 97.265625
+formatted price is 97.281250
+formatted price is 97.328125
+formatted price is 98.171875
+formatted price is 98.281250
+formatted price is 98.500000
+formatted price is 98.718750
+formatted price is 98.718750
+formatted price is 98.812500
+formatted price is 98.828125
+formatted price is 98.843750
+formatted price is 99.031250
+formatted price is 99.250000
+formatted price is 99.578125
+formatted price is 99.828125
+formatted price is 100.359375
+formatted price is 100.562500
+formatted price is 100.781250
+formatted price is 100.859375
+formatted price is 101.171875
+formatted price is 101.187500
+formatted price is 101.250000
+formatted price is 101.296875
+formatted price is 101.453125
+formatted price is 101.484375
+formatted price is 101.687500
+formatted price is 101.781250
+formatted price is 102.296875
+formatted price is 102.312500
+formatted price is 102.468750
+formatted price is 102.593750
+formatted price is 102.937500
+formatted price is 103.515625
+formatted price is 103.578125
+formatted price is 103.890625
+formatted price is 103.906250
+formatted price is 104.140625
+formatted price is 104.593750
+formatted price is 104.640625
+formatted price is 105.375000
+Reading inputs
+formatted price is 99.937500
+formatted price is 100.250000
+formatted price is 100.265625
+formatted price is 100.500000
+formatted price is 101.296875
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
